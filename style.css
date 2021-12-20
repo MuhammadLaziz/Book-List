@@ -1,0 +1,11 @@
+.mainContainer{
+    width: 800px;
+    margin: auto;
+    padding: 1rem;
+}
+.table{
+    margin-top: 3rem;
+}
+td i {
+    color: aquamarine;
+}

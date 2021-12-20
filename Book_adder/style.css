@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.mainContainer{
+    margin: auto;
+    width: 800px;
+}
+form{
+    width: 500px;
+    padding: 5px;
+}
+input{
+    width: 100%;
+}
+form div{
+    display: flex;
+    flex-direction: column;
+}
+.table{
+    width: 700px;
+    margin-top: 55px;
+}
